@@ -205,4 +205,4 @@ public class Ball : MonoBehaviour
 
 ### RESULT:
 Thus, a ping pong game was developed using C# program in unity.
-](https://github.com/Mohanraj2004/RollaBall.git)
+
